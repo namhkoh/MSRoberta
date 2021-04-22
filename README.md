@@ -1,5 +1,8 @@
 # MSRoBERTa
 Fine-tuned RoBERTa MLM model for [`Miscrosoft Sentence Completion Challenge`](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR_SCCD.pdf). This model case-sensitive following the `Roberta-base` model.
+
+https://huggingface.co/nkoh01/MSRoberta
+
 # Model description (taken from: [here](https://huggingface.co/roberta-base))
 RoBERTa is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. This means
 it was pretrained on the raw texts only, with no humans labelling them in any way (which is why it can use lots of
